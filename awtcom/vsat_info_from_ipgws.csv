@@ -1,0 +1,963 @@
+CAPOVERALL,CurrentModCodValue,USGOVERALL,DEVICEID
+0,not-applicable,0,
+0,QPSK - one-half,0,B21LIMDMO0004
+0,not-applicable,0,
+40000,16APSK - twenty five-thirty sixth,39996,B21LIMDMO0001
+40000,QPSK - one-half,39998,B21LIMDMO0002
+200,16APSK - two-third,200,TEV000010669
+200,8PSK - three-fourth,0,TEV000010649
+200,16APSK - two-third,188,TEV000010675
+200,16APSK - two-third,199,B20CAM0000001
+200,8PSK - two-third,191,TEV000010630
+200,8PSK - three-fourth,191,TEV000010595
+0,not-applicable,0,
+200,16APSK - two-third,186,TEV000010650
+200,8PSK - two-third,200,B20VER0000032
+200,8PSK - two-third,0,B20CHP0000068
+0,8PSK - three-fourth,0,B20CHP0000080
+0,8PSK - two-third,0,B20VER0000002
+0,16APSK - two-third,0,B20CHP0000076
+10000,16APSK - two-third,9976,B20CHP0000017
+0,8PSK - two-third,0,B20CHP0000101
+0,8PSK - two-third,0,B20VER0000027
+0,8PSK - two-third,0,B20VER0000025
+0,16APSK - two-third,0,B20VER0000014
+0,QPSK - fifth-sixth,0,B20CHP0000102
+0,16APSK - two-third,0,B20CHP0000187
+0,8PSK - three-fourth,0,B20CHP0000217
+0,8PSK - three-fourth,0,B20CHP0000026
+20000,8PSK - three-fourth,15342,B20VER0000004
+0,8PSK - two-third,0,B20CHP0000196
+0,8PSK - two-third,0,B20OAX0000014
+5000,16APSK - two-third,906,B20VER0000011
+0,8PSK - two-third,0,B20CHP0000075
+0,16APSK - two-third,0,B20CHP0000133
+0,8PSK - three-fourth,0,B20OAX0000010
+10000,QPSK - two-third,4027,B20CHP0000004
+0,8PSK - three-fourth,0,B20VER0000034
+0,8PSK - two-third,0,B20CHP0000038
+0,16APSK - three-fourth,0,B20CHP0000045
+0,QPSK - fifth-sixth,0,B20CHP0000151
+0,8PSK - three-fourth,0,B20CHP0000123
+0,8PSK - three-fourth,0,B20CHP0000074
+5000,16APSK - two-third,346,B20CHP0000036
+0,QPSK - two-third,0,B20TAB0000010
+0,8PSK - two-third,0,B20CHP0000070
+0,8PSK - two-third,0,B20CHP0000145
+0,8PSK - three-fourth,0,B20CHP0000159
+0,16APSK - three-fourth,0,B20CHP0000048
+0,16APSK - two-third,0,B20CHP0000050
+0,8PSK - three-fourth,0,B20VER0000029
+0,16APSK - two-third,0,B20VER0000028
+0,16APSK - two-third,0,B20VER0000038
+0,16APSK - four-fifth,0,B20CHP0000181
+0,16APSK - two-third,0,B20CHP0000104
+0,8PSK - three-fourth,0,B20CHP0000095
+0,8PSK - two-third,0,B20CHP0000149
+0,8PSK - three-fourth,0,B20CHP0000060
+0,16APSK - two-third,0,B20CHP0000118
+0,QPSK - fifth-sixth,0,B20CHP0000160
+0,QPSK - fifth-sixth,0,B20CHP0000098
+0,8PSK - three-fourth,0,B20CHP0000165
+0,8PSK - three-fourth,0,B20CHP0000065
+0,8PSK - two-third,0,B20CHP0000136
+0,8PSK - two-third,0,B20OAX0000008
+0,16APSK - two-third,0,B20CHP0000169
+0,8PSK - three-fourth,0,B20CHP0000105
+0,16APSK - two-third,0,B20CHP0000116
+0,16APSK - two-third,0,B20OAX0000002
+10000,QPSK - fifth-sixth,0,B20TAB0000006
+5000,QPSK - one-half,0,B20VER0000010
+0,8PSK - two-third,0,B20CHP0000079
+0,8PSK - two-third,0,B20CHP0000016
+0,8PSK - three-fourth,0,B20CHP0000112
+0,8PSK - two-third,0,B20CHP0000027
+0,8PSK - three-fourth,0,B20CHP0000158
+0,16APSK - two-third,0,B20CHP0000039
+0,16APSK - two-third,0,B20CHP0000212
+0,8PSK - two-third,0,B20CHP0000013
+0,8PSK - two-third,0,B20CHP0000092
+0,8PSK - three-fourth,0,B20CHP0000093
+0,8PSK - two-third,0,B20TAB0000008
+0,8PSK - two-third,0,B20CHP0000078
+0,16APSK - two-third,0,B20CHP0000091
+0,8PSK - three-fourth,0,B20CHP0000054
+0,8PSK - two-third,0,B20CHP0000023
+0,8PSK - three-fourth,0,B20VER0000041
+5000,8PSK - two-third,4304,B20CHP0000021
+0,16APSK - two-third,0,B20CHP0000088
+0,8PSK - two-third,0,B20CHP0000166
+0,QPSK - fifth-sixth,0,B20CHP0000053
+0,8PSK - two-third,0,B20CHP0000001
+0,8PSK - three-fourth,0,B20CHP0000125
+0,8PSK - three-fourth,0,B20CHP0000097
+0,8PSK - two-third,0,B20VER0000017
+0,8PSK - three-fourth,0,B20CHP0000198
+0,8PSK - three-fourth,0,B20CHP0000086
+0,8PSK - three-fourth,0,B20CHP0000059
+0,not-applicable,0,
+0,8PSK - two-third,0,B20CHP0000131
+0,8PSK - three-fourth,0,B20CHP0000146
+0,8PSK - three-fourth,0,B20CHP0000191
+0,8PSK - three-fourth,0,B20CHP0000108
+0,8PSK - three-fourth,0,B20CHP0000186
+0,8PSK - two-third,0,B20CHP0000175
+0,QPSK - fifth-sixth,0,B20CHP0000140
+0,QPSK - two-third,0,B20OAX0000017
+0,not-applicable,0,
+0,8PSK - two-third,0,B20CHP0000168
+0,8PSK - three-fourth,0,B20CHP0000115
+0,8PSK - three-fourth,0,B20CHP0000184
+0,8PSK - three-fourth,0,B20CHP0000043
+0,8PSK - two-third,0,B20CHP0000173
+0,8PSK - two-third,0,B20CHP0000029
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - two-third,0,B20CHP0000073
+0,8PSK - two-third,0,B20CHP0000034
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - two-third,0,B20CHP0000020
+0,8PSK - three-fourth,0,B20CHP0000024
+200,8PSK - three-fourth,200,B20CHP0000090
+200,8PSK - two-third,0,B20CHP0000051
+200,16APSK - two-third,199,B20CHP0000150
+200,8PSK - two-third,0,TEV000010591
+200,16APSK - two-third,199,B20CHP0000055
+200,8PSK - three-fourth,198,TEV000010600
+0,QPSK - fifth-sixth,0,B20CHP0000200
+0,16APSK - two-third,0,B20CHP0000049
+10000,8PSK - three-fourth,4471,B20CHP0000067
+0,16APSK - two-third,0,B20CHP0000139
+0,16APSK - two-third,0,B20OAX0000015
+0,8PSK - three-fourth,0,B20CHP0000058
+0,16APSK - two-third,0,B20CHP0000215
+0,8PSK - two-third,0,B20CHP0000179
+0,8PSK - two-third,0,B20CHP0000177
+0,8PSK - two-third,0,B20CHP0000197
+0,8PSK - two-third,0,B20CHP0000103
+0,8PSK - three-fourth,0,B20CHP0000120
+0,8PSK - two-third,0,B20CHP0000144
+0,8PSK - two-third,0,B20CHP0000099
+0,8PSK - two-third,0,B20CHP0000130
+0,16APSK - two-third,0,B20CHP0000142
+0,8PSK - three-fourth,0,B20VER0000007
+0,16APSK - two-third,0,B20CHP0000201
+0,8PSK - two-third,0,B20CHP0000046
+0,16APSK - two-third,0,B20CHP0000111
+0,16APSK - two-third,0,B20CHP0000170
+0,QPSK - fifth-sixth,0,B20CHP0000085
+0,8PSK - two-third,0,B20OAX0000006
+0,8PSK - two-third,0,B20CHP0000152
+0,8PSK - two-third,0,B20CHP0000154
+0,8PSK - three-fourth,0,B20CHP0000113
+0,16APSK - two-third,0,B20CHP0000030
+0,16APSK - two-third,0,B20VER0000008
+0,8PSK - three-fourth,0,B20VER0000031
+0,8PSK - two-third,0,B20VER0000030
+0,8PSK - two-third,0,B20CHP0000190
+5000,16APSK - two-third,2871,B20TAB0000004
+0,8PSK - two-third,0,B20CHP0000171
+0,8PSK - two-third,0,B20VER0000026
+0,8PSK - three-fourth,0,B20CHP0000063
+0,8PSK - three-fourth,0,B20CHP0000155
+0,8PSK - two-third,0,B20CHP0000192
+0,8PSK - three-fourth,0,B20CHP0000106
+0,16APSK - two-third,0,B20CHP0000047
+0,8PSK - two-third,0,B20CHP0000195
+0,8PSK - three-fourth,0,B20CHP0000066
+0,16APSK - two-third,0,B20VER0000006
+0,16APSK - two-third,0,B20CHP0000183
+0,8PSK - two-third,0,B20CHP0000061
+0,QPSK - fifth-sixth,0,B20CHP0000128
+0,8PSK - two-third,0,B20CHP0000084
+0,8PSK - two-third,0,B20CHP0000022
+10000,16APSK - two-third,7436,B20CHP0000008
+0,8PSK - three-fourth,0,B20OAX0000018
+5000,8PSK - three-fourth,1750,B20CHP0000018
+0,16APSK - two-third,0,B20CHP0000121
+0,16APSK - two-third,0,B20OAX0000012
+0,8PSK - three-fourth,0,B20CHP0000135
+0,8PSK - two-third,0,B20VER0000012
+0,8PSK - three-fourth,0,B20CHP0000119
+0,QPSK - two-third,0,B20CHP0000062
+10000,8PSK - three-fourth,0,B20VER0000003
+0,8PSK - three-fourth,0,B20CHP0000037
+0,8PSK - two-third,0,B20CHP0000161
+0,8PSK - two-third,0,B20CHP0000172
+0,8PSK - three-fourth,0,B20VER0000039
+0,8PSK - two-third,0,B20VER0000037
+0,QPSK - two-third,0,B20OAX0000007
+0,32APSK - two-third,0,B20CHP0000182
+0,16APSK - two-third,0,B20CHP0000035
+0,16APSK - two-third,0,B20CHP0000056
+0,8PSK - three-fourth,0,B20CHP0000141
+0,8PSK - two-third,0,B20CHP0000083
+5000,QPSK - two-third,0,B32OAX0000010
+0,8PSK - three-fourth,0,B20CHP0000176
+0,8PSK - three-fourth,0,B20CHP0000124
+0,16APSK - two-third,0,B20CHP0000147
+0,8PSK - three-fourth,0,B20CHP0000114
+0,8PSK - three-fourth,0,B20CHP0000162
+0,8PSK - three-fourth,0,B20CHP0000157
+0,8PSK - two-third,0,B20CHP0000082
+0,8PSK - three-fourth,0,B20CHP0000214
+0,QPSK - fifth-sixth,0,B20VER0000020
+0,8PSK - three-fourth,0,B20CHP0000028
+0,8PSK - three-fourth,0,B20CHP0000164
+0,8PSK - two-third,0,B20CHP0000199
+0,8PSK - two-third,0,B20CHP0000137
+0,8PSK - two-third,0,B20VER0000019
+0,QPSK - fifth-sixth,0,B20CHP0000012
+0,QPSK - fifth-sixth,0,B20CHP0000033
+0,16APSK - two-third,0,B20CHP0000107
+0,8PSK - three-fourth,0,B20CHP0000132
+0,QPSK - fifth-sixth,0,B20CHP0000153
+0,8PSK - two-third,0,B20CHP0000189
+0,8PSK - three-fourth,0,B20CHP0000040
+0,8PSK - three-fourth,0,B20CHP0000052
+0,16APSK - two-third,0,B20VER0000016
+0,8PSK - three-fourth,0,B20CHP0000122
+0,8PSK - two-third,0,B20CHP0000174
+0,8PSK - three-fourth,0,B20CHP0000134
+0,16APSK - two-third,0,B20CHP0000194
+0,16APSK - three-fourth,0,B20CHP0000100
+0,8PSK - two-third,0,B20CHP0000019
+0,8PSK - three-fourth,0,B20CHP0000143
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B20CHP0000087
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,16APSK - two-third,0,B20CHP0000041
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,16APSK - two-third,0,B20CHP0000185
+200,8PSK - eight-ninth,199,B29QRO0000011
+200,8PSK - two-third,61,B29CAM0000021
+200,8PSK - two-third,0,B29QRO0000020
+200,8PSK - two-third,200,B29QRO0000040
+0,8PSK - three-fourth,0,B29QRO0000049
+0,8PSK - two-third,0,B29QRO0000017
+0,QPSK - ninth-tenth,0,B29CAM0000042
+20000,8PSK - three-fourth,11228,B29CAM0000003
+20000,8PSK - two-third,12486,B29CAM0000016
+0,8PSK - fifth-sixth,0,B29CAM0000031
+0,QPSK - ninth-tenth,0,B29CAM0000033
+0,8PSK - two-third,0,B29CAM0000026
+0,8PSK - three-fourth,0,B29QRO0000050
+0,8PSK - fifth-sixth,0,B29QRO0000045
+0,8PSK - fifth-sixth,0,B29YUC0000013
+0,8PSK - fifth-sixth,0,B29QRO0000018
+0,8PSK - three-fourth,0,B29MERIDA-COLO2
+0,8PSK - three-fourth,0,B29QRO0000016
+0,8PSK - three-fourth,0,B29MERIDA-COLO1
+0,8PSK - fifth-sixth,0,B29QRO0000024
+0,8PSK - two-third,0,B29CAM0000044
+0,QPSK - ninth-tenth,0,B29CAM0000017
+0,8PSK - two-third,0,B29YUC0000015
+0,8PSK - three-fourth,0,B29CAM0000018
+0,8PSK - three-fourth,0,B29CAM0000046
+0,8PSK - two-third,0,B29QRO0000033
+0,8PSK - two-third,0,B29QRO0000025
+0,8PSK - two-third,0,B29CAMPRUEBA1
+0,8PSK - three-fourth,0,B29YUC0000019
+0,QPSK - ninth-tenth,0,B29CAM0000032
+0,QPSK - ninth-tenth,0,B29CAM0000035
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B29QRO0000047
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B29CAM0000048
+0,8PSK - two-third,0,B29QRO0000043
+0,8PSK - two-third,0,B29QRO0000035
+0,8PSK - two-third,0,B29CAM0000028
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - two-third,0,B29QRO0000013
+0,not-applicable,0,
+200,8PSK - three-fourth,199,B29QRO0000010
+0,8PSK - two-third,0,B29YUC0000022
+10000,8PSK - three-fourth,8629,B29YUC0000004
+0,8PSK - fifth-sixth,0,B29CAM0000036
+0,8PSK - three-fourth,0,B29YUC0000012
+0,8PSK - three-fourth,0,B29QRO0000022
+0,8PSK - two-third,0,B29QRO0000015
+0,QPSK - ninth-tenth,0,B29CAM0000038
+0,8PSK - three-fourth,0,B29CAM0000047
+0,8PSK - two-third,0,B29CAM0000012
+0,8PSK - three-fourth,0,B29CAM0000010
+0,8PSK - two-third,0,B29CAM0000025
+0,8PSK - three-fourth,0,B29YUC0000018
+0,QPSK - fifth-sixth,0,B29CAM0000014
+0,8PSK - three-fourth,0,B29CAM0000045
+10000,8PSK - fifth-sixth,0,B29CAM0000006
+0,QPSK - ninth-tenth,0,B29CAM0000022
+0,QPSK - two-third,0,B29CAM0000015
+0,8PSK - two-third,0,B29QRO0000044
+0,8PSK - fifth-sixth,0,B29QRO0000021
+0,QPSK - ninth-tenth,0,B29CAM0000030
+0,8PSK - three-fourth,0,B29QRO0000001
+0,8PSK - two-third,0,B29CAM0000024
+0,8PSK - three-fourth,0,B29QRO0000023
+10000,8PSK - three-fourth,8003,B29YUC0000003
+0,QPSK - ninth-tenth,0,B29CAM0000034
+20000,8PSK - three-fourth,19999,B29YUC0000001
+0,8PSK - three-fourth,0,B29YUC0000020
+0,QPSK - two-third,0,B29CAM0000008
+0,8PSK - two-third,0,B29QROPRUEBA1
+0,8PSK - three-fourth,0,B29QRO0000042
+0,8PSK - three-fourth,0,B29QRO0000036
+0,QPSK - ninth-tenth,0,B29CAM0000041
+0,8PSK - three-fourth,0,B29YUCDMUNETE1
+0,8PSK - two-third,0,B29QRO0000028
+0,8PSK - fifth-sixth,0,B29QRO0000034
+0,QPSK - ninth-tenth,0,B29YUC0000017
+0,8PSK - three-fourth,0,B29YUC0000014
+0,8PSK - two-third,0,B29CAM0000020
+0,QPSK - fifth-sixth,0,B29CAM0000009
+0,QPSK - fifth-sixth,0,B29CAM0000043
+0,not-applicable,0,
+0,QPSK - two-third,0,B29CAM0000029
+0,8PSK - two-third,0,B29CAM0000027
+10000,8PSK - three-fourth,9999,B29YUC0000002
+0,not-applicable,0,
+0,QPSK - two-third,0,B29CAM0000013
+10000,8PSK - three-fourth,0,B29CAM0000005
+0,8PSK - three-fourth,0,B29QRO0000046
+0,QPSK - fifth-sixth,0,B29YUC0000016
+0,8PSK - two-third,0,B29QRO0000032
+0,8PSK - two-third,0,B29QRO0000019
+0,8PSK - three-fourth,0,B29QRO0000012
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+200,16APSK - two-third,0,B25JAL0000048
+200,8PSK - three-fourth,200,B25JAL0000062
+200,8PSK - three-fourth,199,B25AGU0000016
+0,not-applicable,0,
+200,8PSK - three-fourth,200,B25JAL0000001
+0,16APSK - two-third,0,B25JAL0000030
+0,8PSK - three-fourth,0,B25GUA0000054
+20000,8PSK - three-fourth,0,B25ZAC0000008
+40000,8PSK - three-fourth,22782,B25JAL0000019
+10000,8PSK - three-fourth,2622,B25ZAC0000016
+0,16APSK - two-third,0,B25JAL0000029
+0,8PSK - three-fourth,0,B25SLP0000007
+0,8PSK - three-fourth,0,B25JAL0000054
+0,8PSK - three-fourth,0,B25DUR0000012
+0,8PSK - two-third,0,B25NAY0000003
+0,8PSK - three-fourth,0,B25GUA0000028
+0,8PSK - two-third,0,B25NAY0000019
+0,8PSK - two-third,0,B25DUR0000002
+0,8PSK - three-fourth,0,B25DUR0000020
+40000,8PSK - two-third,32728,B25JAL0000010
+0,8PSK - two-third,0,B25DUR0000014
+0,8PSK - three-fourth,0,B25AGU0000030
+5000,8PSK - three-fourth,0,B25GUA0000051
+60000,16APSK - two-third,35268,B25AGU0000018
+0,8PSK - three-fourth,0,B25GUA0000043
+0,not-applicable,0,
+10000,8PSK - three-fourth,0,B25AGU0000021
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B25JAL0000017
+0,8PSK - three-fourth,0,B25GUA0000046
+10000,8PSK - three-fourth,9879,B25AGU0000008
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B25JAL0000014
+0,8PSK - three-fourth,0,B25GUA0000036
+0,not-applicable,0,
+0,not-applicable,0,
+10000,16APSK - two-third,9994,B25JAL0000018
+0,not-applicable,0,
+10000,8PSK - three-fourth,9662,B25GUA0000019
+0,8PSK - three-fourth,0,B25GUA0000034
+0,not-applicable,0,
+20000,8PSK - three-fourth,15312,B25GUA0000023
+0,not-applicable,0,
+0,8PSK - two-third,0,B25NAY0000020
+0,8PSK - two-third,0,B25GUA0000032
+5000,16APSK - two-third,4975,B25AGU0000009
+0,8PSK - three-fourth,0,B25GUA0000042
+0,16APSK - two-third,0,B25JAL0000046
+0,8PSK - three-fourth,0,B25NAY0000002
+0,8PSK - three-fourth,0,B25GUADMO005
+0,not-applicable,0,
+0,QPSK - fifth-sixth,0,B25GUA0000015
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+5000,8PSK - two-third,0,B25ZAC0000021
+0,8PSK - three-fourth,0,B25GUA0000047
+0,not-applicable,0,
+0,16APSK - two-third,0,B25GUA0000033
+0,8PSK - three-fourth,0,B25SLP0000011
+0,8PSK - three-fourth,0,B25DUR0000018
+0,not-applicable,0,
+0,not-applicable,0,
+0,16APSK - four-fifth,0,B25GUA0000021
+0,16APSK - two-third,0,B25GUA0000004
+0,not-applicable,0,
+0,8PSK - two-third,0,B25GUA0000003
+200,16APSK - two-third,0,B25GUA0000024
+200,QPSK - fifth-sixth,185,B25NAY0000016
+200,8PSK - three-fourth,0,B25AGU0000012
+200,8PSK - three-fourth,0,TEV000010770
+200,16APSK - two-third,0,TEV000010676
+200,8PSK - three-fourth,0,TEV000010809
+0,not-applicable,0,
+200,8PSK - three-fourth,199,B25GUA0000039
+60000,8PSK - three-fourth,58432,B25ZAC0000003
+0,8PSK - two-third,0,B25JAL0000045
+0,8PSK - three-fourth,0,B25GUA0000027
+0,8PSK - three-fourth,0,B25JAL0000034
+0,8PSK - three-fourth,0,B25SLP0000001
+20000,8PSK - two-third,6999,B25JAL0000005
+5000,8PSK - two-third,0,B25DUR0000009
+0,16APSK - three-fourth,0,B25DUR0000004
+0,8PSK - two-third,0,B25GUA0000016
+0,16APSK - two-third,0,B25AGU0000039
+0,8PSK - three-fourth,0,B25ZAC0000018
+0,8PSK - three-fourth,0,B25JAL0000031
+0,8PSK - three-fourth,0,B25JAL0000024
+0,8PSK - two-third,0,B25NAY0000021
+0,16APSK - two-third,0,B25SLPDEMO002
+0,8PSK - three-fourth,0,B25NOCZAC0005
+10000,16APSK - two-third,4350,B25GUA0000048
+20000,8PSK - two-third,0,B25NAY0000010
+40000,8PSK - three-fourth,16024,B25JAL0000047
+5000,16APSK - two-third,4526,B25AGU0000010
+0,8PSK - two-third,0,B25JAL0000042
+0,8PSK - three-fourth,0,B25GTODMO001
+0,8PSK - three-fourth,0,B25GUA0000045
+0,8PSK - three-fourth,0,B25GUA0000049
+0,8PSK - three-fourth,0,B25GUA0000044
+0,8PSK - two-third,0,B25GUA0000018
+0,8PSK - two-third,0,B25DUR0000010
+0,QPSK - fifth-sixth,0,B25GUA0000053
+0,8PSK - two-third,0,B25ZACDMO004
+0,16APSK - two-third,0,B25GUA0000038
+10000,8PSK - three-fourth,9998,B25JAL0000006
+0,16APSK - two-third,0,B25JAL0000027
+0,8PSK - three-fourth,0,B25JAL0000039
+0,8PSK - three-fourth,0,B25JAL0000053
+60000,8PSK - three-fourth,56968,B25ZAC0000006
+0,8PSK - three-fourth,0,B25GUA0000035
+0,8PSK - three-fourth,0,B25JAL0000020
+0,16APSK - two-third,0,B25SIN0000001
+0,not-applicable,0,
+0,8PSK - two-third,0,B25DUR0000006
+0,8PSK - three-fourth,0,B25AGU0000037
+0,8PSK - three-fourth,0,B25GUA0000052
+0,8PSK - three-fourth,0,B25JAL0000026
+0,8PSK - two-third,0,B25DUR0000021
+0,8PSK - two-third,0,B25NAYDMO001
+0,QPSK - fifth-sixth,0,B25GUA0000017
+0,8PSK - three-fourth,0,B25GUA0000031
+0,8PSK - two-third,0,B25ZACDMO003
+5000,8PSK - three-fourth,0,B25NAY0000006
+0,8PSK - two-third,0,B25QUE0000001
+0,QPSK - fifth-sixth,0,B32MIC0000025
+0,8PSK - three-fourth,0,B25JAL0000025
+0,8PSK - two-third,0,B25DUR0000005
+0,8PSK - two-third,0,B25DUR0000013
+0,16APSK - two-third,0,B25AGU0000022
+0,8PSK - three-fourth,0,B25JAL0000044
+0,8PSK - three-fourth,0,B25GUA0000009
+0,8PSK - two-third,0,B25JAL0000057
+10000,8PSK - three-fourth,0,B25ZAC0000012
+0,16APSK - two-third,0,B25AGU0000038
+0,8PSK - two-third,0,B25ZAC0000010
+20000,8PSK - two-third,0,B25NAY0000011
+5000,8PSK - two-third,4999,B25JAL0000008
+10000,8PSK - three-fourth,9373,B25NAY0000004
+0,8PSK - three-fourth,0,B25SLP0000003
+0,8PSK - three-fourth,0,B25DUR0000003
+0,8PSK - three-fourth,0,B25JAL0000041
+0,16APSK - two-third,0,B25AGU0000033
+0,QPSK - fifth-sixth,0,B25NAY0000018
+0,16APSK - two-third,0,B25AGU0000023
+0,8PSK - three-fourth,0,B25AGU0000035
+0,8PSK - two-third,0,B25MIC0000001
+0,16APSK - two-third,0,B25JAL0000032
+0,8PSK - three-fourth,0,B25JAL0000038
+0,16APSK - two-third,0,B25GUADMO004
+0,8PSK - three-fourth,0,B25AGU0000020
+0,8PSK - two-third,0,B25GUA0000020
+60000,16APSK - two-third,52633,B25AGU0000004
+0,8PSK - three-fourth,0,B25GUA0000030
+0,8PSK - three-fourth,0,B25ZACDMO002
+60000,8PSK - three-fourth,57376,B25ZAC0000002
+0,8PSK - three-fourth,0,B25AGU0000029
+0,16APSK - two-third,0,B25AGU0000042
+0,8PSK - two-third,0,B25NAY0000008
+0,8PSK - two-third,0,B25SLP0000006
+5000,8PSK - three-fourth,0,B25AGU0000006
+0,16APSK - two-third,0,B25AGU0000028
+0,16APSK - two-third,0,B25AGU0000041
+0,8PSK - two-third,0,B25NAY0000013
+20000,8PSK - two-third,0,B25NAY0000009
+0,16APSK - two-third,0,B25JAL0000033
+60000,8PSK - three-fourth,59915,B25ZACDMO001
+0,8PSK - three-fourth,0,B25GUA0000050
+0,8PSK - three-fourth,0,B25JAL0000052
+0,16APSK - two-third,0,B25ZAC0000020
+0,8PSK - three-fourth,0,B25GUA0000010
+0,8PSK - three-fourth,0,B25AGU0000013
+0,8PSK - three-fourth,0,B25JAL0000028
+0,8PSK - three-fourth,0,B25AGU0000026
+0,QPSK - two-third,0,B25MIC0000023
+0,8PSK - three-fourth,0,B25AGU0000031
+0,8PSK - three-fourth,0,B25GUA0000014
+0,8PSK - two-third,0,B25ZAC0000004
+40000,8PSK - three-fourth,39860,B25NOCZAC0004
+0,QPSK - fifth-sixth,0,B25GUA0000026
+0,8PSK - three-fourth,0,B25AGU0000007
+0,8PSK - three-fourth,0,B25DUR0000007
+0,8PSK - two-third,0,B25JAL0000040
+0,16APSK - two-third,0,B25GUA0000029
+0,8PSK - three-fourth,0,B25ZAC0000014
+0,8PSK - three-fourth,0,B25GUA0000037
+10000,QPSK - fifth-sixth,9998,B25DUR0000011
+0,8PSK - two-third,0,B25GUA0000008
+0,8PSK - three-fourth,0,B25JAL0000011
+0,8PSK - three-fourth,0,B25JAL0000043
+20000,8PSK - two-third,0,B25ZAC0000013
+0,not-applicable,0,
+0,8PSK - two-third,0,B25ZAC0000009
+10000,QPSK - fifth-sixth,0,B25JAL0000015
+0,8PSK - two-third,0,B25JAL0000049
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+200,8PSK - fifth-sixth,199,B32MOR0000002
+200,8PSK - three-fourth,200,B32MIC0000038
+200,8PSK - three-fourth,200,TEV000010948
+200,8PSK - fifth-sixth,199,B32PUE0000023
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+200,8PSK - two-third,0,B32VER0000005
+0,8PSK - fifth-sixth,0,B32CMX0000002
+0,8PSK - fifth-sixth,0,B32MEX0000071
+5000,QPSK - ninth-tenth,0,B32GRO0000005
+0,8PSK - fifth-sixth,0,B32MEX0000034
+0,8PSK - fifth-sixth,0,B32PUE0000039
+0,8PSK - fifth-sixth,0,B32MEX0000154
+0,8PSK - fifth-sixth,0,B32MEX0000088
+0,8PSK - fifth-sixth,0,B32PUE0000043
+0,8PSK - three-fourth,0,B32GRO0000051
+0,8PSK - fifth-sixth,0,B32MEX0000080
+0,QPSK - ninth-tenth,0,B32HID0000024
+0,8PSK - fifth-sixth,0,B32PUE0000045
+0,8PSK - three-fourth,0,B32MEX0000059
+0,8PSK - fifth-sixth,0,B32MEX0000137
+0,8PSK - three-fourth,0,B32MEX0000095
+10000,8PSK - fifth-sixth,4500,B32OAX0000011
+0,QPSK - fifth-sixth,0,B32HID0000008
+0,8PSK - three-fourth,0,B32MEX0000070
+0,8PSK - three-fourth,0,B32GRO0000075
+0,8PSK - three-fourth,0,B32HID0000013
+0,8PSK - three-fourth,0,B32MEX0000020
+0,8PSK - fifth-sixth,0,B32GRO0000073
+0,8PSK - two-third,0,B32MIC0000007
+0,8PSK - three-fourth,0,B32MEX0000022
+0,8PSK - three-fourth,0,B32MIC0000033
+0,8PSK - fifth-sixth,0,B32MOR0000013
+0,8PSK - three-fourth,0,B32MEX0000125
+20000,8PSK - fifth-sixth,19134,B32GRO0000029
+10000,8PSK - fifth-sixth,9836,B32CMX0000006
+0,8PSK - fifth-sixth,0,B32GRO0000072
+0,8PSK - fifth-sixth,0,B32MEX0000119
+0,8PSK - fifth-sixth,0,B32MEX0000155
+0,8PSK - two-third,0,B32TLA0000013
+5000,8PSK - fifth-sixth,0,B32MEX0000148
+0,8PSK - eight-ninth,0,B32GRO0000009
+0,8PSK - fifth-sixth,0,B32TLA0000007
+5000,8PSK - three-fourth,4561,B32MIC0000001
+0,8PSK - two-third,0,B32GRO0000035
+0,8PSK - fifth-sixth,0,B32MEX0000147
+0,8PSK - three-fourth,0,B32PUE0000010
+0,8PSK - three-fourth,0,B32MEX0000130
+0,8PSK - three-fourth,0,B32CMX0000016
+0,8PSK - fifth-sixth,0,B32GRO0000041
+0,8PSK - fifth-sixth,0,B32MIC0000017
+0,8PSK - fifth-sixth,0,B32MEX0000089
+0,8PSK - three-fourth,0,B32MEX0000143
+0,8PSK - fifth-sixth,0,B32MEX0000061
+0,8PSK - two-third,0,B32HID0000020
+0,8PSK - fifth-sixth,0,B32CMX0000015
+0,8PSK - two-third,0,B32CMX0000017
+0,8PSK - three-fourth,0,B32MEX0000008
+60000,8PSK - two-third,52899,B32MEXDEMO002
+0,8PSK - three-fourth,0,B32HID0000011
+0,8PSK - fifth-sixth,0,B32MEX0000041
+0,8PSK - two-third,0,B32MIC0000034
+0,8PSK - fifth-sixth,0,B32MOR0000016
+0,8PSK - fifth-sixth,0,B20OAX0000011
+0,8PSK - fifth-sixth,0,B32MIC0000005
+0,8PSK - fifth-sixth,0,B32MEX0000065
+0,8PSK - fifth-sixth,0,B32MEX0000044
+0,8PSK - fifth-sixth,0,B32CMX0000019
+0,8PSK - fifth-sixth,0,B32GRO0000079
+20000,8PSK - three-fourth,8694,B32MEX0000026
+0,8PSK - fifth-sixth,0,B32MEX0000101
+0,8PSK - fifth-sixth,0,B32PUE0000047
+0,8PSK - three-fourth,0,B32MEX0000081
+0,8PSK - fifth-sixth,0,B32PUE0000015
+0,8PSK - three-fourth,0,B32PUE0000026
+0,8PSK - fifth-sixth,0,B32GRO0000078
+0,8PSK - fifth-sixth,0,B32PUE0000005
+0,8PSK - two-third,0,B32MEX0000118
+0,8PSK - fifth-sixth,0,B32MEX0000054
+0,8PSK - fifth-sixth,0,B32CMX0000011
+0,8PSK - fifth-sixth,0,B32PUE0000017
+0,8PSK - fifth-sixth,0,B32PUE0000029
+0,16APSK - eight-ninth,0,B32TOLUCA-COLO5
+40000,8PSK - fifth-sixth,37687,B32MEX0000025
+0,QPSK - ninth-tenth,0,B32MIC0000006
+0,8PSK - fifth-sixth,0,B32MEX0000060
+0,8PSK - fifth-sixth,0,B32MEX0000076
+0,8PSK - fifth-sixth,0,B32MEX0000107
+0,8PSK - fifth-sixth,0,B32OAX0000022
+20000,8PSK - three-fourth,0,B32GRO0000021
+0,8PSK - fifth-sixth,0,B32MEX0000110
+0,8PSK - fifth-sixth,0,B32MEX0000064
+5000,8PSK - three-fourth,0,B32GRO0000046
+0,8PSK - three-fourth,0,B32MEX0000007
+20000,8PSK - fifth-sixth,11780,B32OAX0000004
+0,8PSK - two-third,0,B32MEX0000029
+5000,8PSK - fifth-sixth,4280,B32MEX0000082
+0,8PSK - fifth-sixth,0,B32PUE0000007
+20000,8PSK - three-fourth,5280,B32OAX0000005
+0,8PSK - three-fourth,0,B32PUE0000024
+0,8PSK - fifth-sixth,0,B32GRO0000037
+0,8PSK - fifth-sixth,0,B32GRO0000068
+0,QPSK - ninth-tenth,0,B32HID0000026
+20000,8PSK - fifth-sixth,1565,B32MEX0000005
+0,8PSK - two-third,0,B32MEX0000117
+5000,8PSK - fifth-sixth,4966,B32GRO0000014
+0,8PSK - fifth-sixth,0,B32MEX0000115
+10000,8PSK - fifth-sixth,0,B32MEX0000027
+0,8PSK - fifth-sixth,0,B32GRO0000010
+0,8PSK - fifth-sixth,0,B32PUE0000003
+0,8PSK - three-fourth,0,B32HID0000022
+0,8PSK - three-fourth,0,B32MEX0000051
+20000,8PSK - three-fourth,13994,B32GRO0000082
+0,8PSK - three-fourth,0,B32MEX0000073
+0,8PSK - three-fourth,0,B32MOR0000020
+0,8PSK - fifth-sixth,0,B32PUE0000028
+0,8PSK - fifth-sixth,0,B32MEX0000024
+0,8PSK - two-third,0,B32GRO0000052
+5000,8PSK - fifth-sixth,4536,B32PUE0000001
+0,QPSK - ninth-tenth,0,B32GRO0000093
+0,8PSK - fifth-sixth,0,B32PUE0000022
+0,8PSK - three-fourth,0,B32GRO0000053
+0,8PSK - eight-ninth,0,B32HID0000019
+0,8PSK - fifth-sixth,0,B32MEX0000009
+0,8PSK - fifth-sixth,0,B32MEX0000096
+0,8PSK - three-fourth,0,B32MIC0000019
+0,8PSK - three-fourth,0,B32MIC0000018
+0,8PSK - fifth-sixth,0,B32OAX0000023
+0,8PSK - fifth-sixth,0,B32MEX0000131
+0,8PSK - eight-ninth,0,B32MIC0000013
+0,8PSK - two-third,0,B32MEX0000050
+0,8PSK - three-fourth,0,B32MEX0000108
+0,8PSK - fifth-sixth,0,B32PUE0000025
+0,8PSK - fifth-sixth,0,B32MOR0000001
+0,8PSK - two-third,0,B32HID0000005
+0,8PSK - fifth-sixth,0,B32PUE0000040
+0,8PSK - fifth-sixth,0,B32GRO0000064
+0,8PSK - three-fourth,0,B32MEX0000084
+20000,8PSK - three-fourth,8252,B32GRO0000023
+0,8PSK - three-fourth,0,B32MEX0000031
+5000,8PSK - three-fourth,0,B32MIC0000002
+20000,8PSK - fifth-sixth,19994,B32GRO0000018
+0,8PSK - fifth-sixth,0,B32MEX0000040
+0,8PSK - fifth-sixth,0,B32MEX0000106
+0,8PSK - three-fourth,0,B32GRO0000002
+0,8PSK - fifth-sixth,0,B32TOLUCA-COLO2
+0,8PSK - three-fourth,0,B32MEX0000033
+0,8PSK - fifth-sixth,0,B32GRO0000032
+0,8PSK - fifth-sixth,0,B32OAX0000008
+0,8PSK - fifth-sixth,0,B32GRO0000033
+0,8PSK - fifth-sixth,0,B32MEX0000099
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32PUE0000038
+0,QPSK - ninth-tenth,0,B20OAX0000003
+20000,8PSK - two-third,10747,B32MIC0000014
+0,8PSK - fifth-sixth,0,B32PUE0000013
+5000,8PSK - three-fourth,0,B32MEX0000079
+0,8PSK - three-fourth,0,B32HID0000025
+0,8PSK - fifth-sixth,0,B32CMX0000008
+0,8PSK - fifth-sixth,0,B32MEX0000049
+0,8PSK - two-third,0,B32GRO0000007
+0,8PSK - fifth-sixth,0,B32TLA0000014
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B32GRO0000077
+0,8PSK - fifth-sixth,0,B32MOR0000015
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32OAX0000009
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32MEX0000140
+20000,8PSK - three-fourth,11895,B32MEX0000011
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32GRO0000055
+0,8PSK - fifth-sixth,0,B32MEX0000121
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - eight-ninth,0,B32PUE0000018
+200,8PSK - three-fourth,200,B32OAX0000007
+200,8PSK - fifth-sixth,198,B32TLA0000011
+200,8PSK - two-third,167,B32OAX0000002
+200,8PSK - fifth-sixth,198,B32MEX0000046
+200,8PSK - fifth-sixth,199,B32GRO0000092
+0,8PSK - three-fourth,0,B32MEX0000012
+0,8PSK - two-third,0,B32HID0000015
+0,8PSK - three-fourth,0,B32CMX0000007
+0,8PSK - three-fourth,0,B20OAX0000013
+0,8PSK - fifth-sixth,0,B32PUE0000011
+5000,8PSK - fifth-sixth,4984,B32GRO0000076
+0,8PSK - three-fourth,0,B32MIC0000030
+0,8PSK - fifth-sixth,0,B32MOR0000011
+0,8PSK - three-fourth,0,B32MEX0000067
+0,8PSK - three-fourth,0,B32MEX0000092
+0,8PSK - three-fourth,0,B32MEX0000136
+0,16APSK - five-sixth,0,B32MEX0000151
+0,8PSK - three-fourth,0,B32PUE0000032
+0,8PSK - two-third,0,B32GRO0000038
+0,8PSK - three-fourth,0,B32TLA0000003
+0,8PSK - fifth-sixth,0,B32MEX0000149
+20000,8PSK - three-fourth,17582,B32GRO0000028
+0,8PSK - fifth-sixth,0,B32MEX0000069
+0,8PSK - three-fourth,0,B32PUE0000009
+0,8PSK - fifth-sixth,0,B32MIC0000010
+0,8PSK - fifth-sixth,0,B32MEX0000152
+0,8PSK - fifth-sixth,0,B32TLA0000005
+20000,8PSK - fifth-sixth,19997,B32MEX0000006
+0,8PSK - fifth-sixth,0,B32MOR0000014
+0,8PSK - fifth-sixth,0,B32MOR0000012
+0,8PSK - fifth-sixth,0,B32MEX0000145
+0,8PSK - fifth-sixth,0,B32MEX0000090
+0,8PSK - three-fourth,0,B32MEX0000146
+0,16APSK - five-sixth,0,B32PUE0000016
+0,8PSK - fifth-sixth,0,B32GRO0000065
+0,8PSK - fifth-sixth,0,B32GRO0000080
+0,QPSK - ninth-tenth,0,B20OAX0000005
+0,8PSK - fifth-sixth,0,B32OAX0000027
+0,8PSK - fifth-sixth,0,B32GRO0000070
+0,8PSK - fifth-sixth,0,B32MOR0000021
+0,QPSK - two-third,0,B32OAX0000030
+0,8PSK - three-fourth,0,B32GRO0000039
+0,8PSK - fifth-sixth,0,B32MEX0000032
+0,8PSK - fifth-sixth,0,B32GRO0000006
+0,8PSK - two-third,0,B32MIC0000032
+0,8PSK - fifth-sixth,0,B32GRO0000054
+0,8PSK - fifth-sixth,0,B32MOR0000006
+0,8PSK - fifth-sixth,0,B32PUE0000030
+0,8PSK - three-fourth,0,B32MEX0000109
+0,8PSK - three-fourth,0,B32TLA0000008
+0,8PSK - three-fourth,0,B32MEX0000144
+20000,8PSK - three-fourth,0,B32GRO0000024
+0,8PSK - fifth-sixth,0,B32MEX0000058
+10000,8PSK - fifth-sixth,0,B32MEX0000013
+0,8PSK - fifth-sixth,0,B32MEX0000120
+0,8PSK - fifth-sixth,0,B32MEX0000103
+0,8PSK - three-fourth,0,B32PUE0000042
+0,8PSK - fifth-sixth,0,B32GRO0000061
+0,8PSK - two-third,0,B32MIC0000021
+0,8PSK - fifth-sixth,0,B32MOR0000010
+0,8PSK - fifth-sixth,0,B32PUE0000006
+0,8PSK - fifth-sixth,0,B32GRO0000090
+0,8PSK - fifth-sixth,0,B32MEX0000062
+0,8PSK - fifth-sixth,0,B32MEX0000028
+20000,8PSK - two-third,19999,B32GRO0000027
+0,8PSK - fifth-sixth,0,B32PUE0000036
+40000,8PSK - fifth-sixth,39947,B32MEXNOC001
+0,not-applicable,0,
+0,16APSK - five-sixth,0,B32OAX0000028
+0,8PSK - fifth-sixth,0,B32MEX0000085
+0,8PSK - three-fourth,0,B32TLA0000004
+0,8PSK - two-third,0,B32PUE0000037
+0,8PSK - three-fourth,0,B32GRO0000060
+0,8PSK - fifth-sixth,0,B32MEX0000141
+0,8PSK - fifth-sixth,0,B32GRO0000044
+5000,8PSK - fifth-sixth,2765,B32MEX0000003
+0,8PSK - fifth-sixth,0,B32GRO0000056
+0,8PSK - fifth-sixth,0,B32PUE0000014
+0,8PSK - fifth-sixth,0,B32CMX0000013
+10000,8PSK - fifth-sixth,4899,B32OAX0000003
+0,not-applicable,0,
+0,8PSK - two-third,0,B32GRO0000091
+0,8PSK - fifth-sixth,0,B32MEXDMAZT01
+0,8PSK - three-fourth,0,B32TLA0000002
+0,8PSK - fifth-sixth,0,B32GRO0000030
+0,8PSK - fifth-sixth,0,B32MEX0000075
+0,8PSK - three-fourth,0,B32MIC0000016
+0,8PSK - eight-ninth,0,B32MIC0000009
+0,8PSK - three-fourth,0,B32MIC0000031
+0,16APSK - five-sixth,0,B32HID0000031
+0,8PSK - fifth-sixth,0,B32MEX0000068
+20000,8PSK - two-third,17946,B32GRO0000017
+0,8PSK - two-third,0,B32MIC0000028
+0,8PSK - fifth-sixth,0,B32MEX0000114
+0,8PSK - fifth-sixth,0,B32MIC0000012
+0,8PSK - three-fourth,0,B32MEX0000098
+0,8PSK - two-third,0,B32HID0000014
+20000,QPSK - fifth-sixth,18594,B32GRO0000026
+0,8PSK - fifth-sixth,0,B32MEX0000063
+0,8PSK - fifth-sixth,0,B32MEX0000077
+0,16APSK - five-sixth,0,B32PUE0000021
+0,8PSK - three-fourth,0,B32GRO0000034
+0,8PSK - two-third,0,B32GRO0000031
+0,8PSK - two-third,0,B32MIC0000036
+0,8PSK - three-fourth,0,B32GRO0000062
+0,8PSK - three-fourth,0,B32PUE0000012
+0,8PSK - fifth-sixth,0,B32GRO0000067
+0,8PSK - fifth-sixth,0,B32GRO0000011
+0,QPSK - two-third,0,B32HID0000010
+0,8PSK - three-fourth,0,B32PUE0000031
+0,8PSK - two-third,0,B32MIC0000003
+0,16APSK - five-sixth,0,B32HID0000029
+0,QPSK - ninth-tenth,0,B32TLA0000009
+0,8PSK - fifth-sixth,0,B32PUE0000033
+0,8PSK - fifth-sixth,0,B32GRO0000012
+0,8PSK - fifth-sixth,0,B32MOR0000017
+0,8PSK - fifth-sixth,0,B32MEX0000015
+0,8PSK - fifth-sixth,0,B32MEX0000097
+0,8PSK - three-fourth,0,B32MIC0000004
+0,8PSK - fifth-sixth,0,B32PUE0000027
+20000,8PSK - two-third,18915,B32MIC0000008
+0,8PSK - two-third,0,B32GRO0000084
+0,8PSK - fifth-sixth,0,B32MEX0000066
+0,8PSK - fifth-sixth,0,B32PUE0000008
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B32HID0000001
+0,8PSK - three-fourth,0,B32GRO0000049
+0,8PSK - fifth-sixth,0,B32MOR0000009
+0,8PSK - fifth-sixth,0,B32MEX0000055
+0,8PSK - fifth-sixth,0,B32GRO0000045
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B32MIC0000037
+0,8PSK - two-third,0,B32MEX0000134
+0,8PSK - fifth-sixth,0,B32MEX0000150
+0,8PSK - fifth-sixth,0,B32GRO0000074
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32TLA0000010
+20000,8PSK - two-third,17342,B32PUE0000004
+0,8PSK - fifth-sixth,0,B32MEX0000142
+0,8PSK - fifth-sixth,0,B32MEX0000105
+0,8PSK - three-fourth,0,B32GRO0000066
+0,not-applicable,0,
+40000,8PSK - eight-ninth,35539,B32HID0000002
+0,QPSK - fifth-sixth,0,B32MIC0000011
+0,8PSK - three-fourth,0,B32GRO0000040
+0,8PSK - three-fourth,0,B32HID0000027
+0,QPSK - fifth-sixth,0,B32GRO0000058
+10000,8PSK - fifth-sixth,3115,B32OAX0000006
+0,8PSK - eight-ninth,0,B32MEX0000126
+0,8PSK - fifth-sixth,0,B32PUE0000041
+0,not-applicable,0,
+0,8PSK - two-third,0,B32MEX0000139
+0,8PSK - fifth-sixth,0,B32MEX0000123
+40000,8PSK - fifth-sixth,39965,B32MEX0000014
+0,QPSK - fifth-sixth,0,B32MIC0000015
+0,16APSK - five-sixth,0,B32OAX0000001
+0,8PSK - three-fourth,0,B32MOR0000019
+0,8PSK - fifth-sixth,0,B32GRO0000004
+0,8PSK - fifth-sixth,0,B32TOLUCA-COLO1
+60000,8PSK - fifth-sixth,38850,B32MEXDEMO003
+0,8PSK - three-fourth,0,B32HID0000023
+0,not-applicable,0,
+0,8PSK - two-third,0,B32MEX0000122
+0,8PSK - fifth-sixth,0,B32MEX0000102
+0,8PSK - three-fourth,0,B32MEX0000093
+0,8PSK - two-third,0,B32MIC0000027
+0,8PSK - fifth-sixth,0,B32MEX0000047
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32TLA0000006
+0,8PSK - fifth-sixth,0,B32GRO0000001
+0,8PSK - eight-ninth,0,B32GRO0000036
+0,8PSK - three-fourth,0,B32MIC0000041
+0,QPSK - fifth-sixth,0,B32MIC0000029
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,16APSK - five-sixth,0,B32HID0000030
+0,8PSK - three-fourth,0,B32HID0000018
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B32MIC0000020
+0,8PSK - two-third,0,B32MEX0000091
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32CMX0000010
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - three-fourth,0,B32GRO0000008
+0,8PSK - fifth-sixth,0,B32MEX0000030
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32MEX0000111
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32MEX0000053
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32PUEDMO0001
+0,8PSK - three-fourth,0,B32OAX0000019
+0,8PSK - fifth-sixth,0,B32GRO0000087
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+0,8PSK - fifth-sixth,0,B32GRO0000088
+0,not-applicable,0,
+0,not-applicable,0,
+0,not-applicable,0,
+60000,16APSK - twenty five-thirty sixth,59713,B19TESTTM02

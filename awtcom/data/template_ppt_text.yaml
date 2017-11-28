@@ -1,0 +1,7 @@
+slide1: This presentation provides a summary of VSAT locations, service plans and spectral efficiency for __NW_NAME__.
+
+  Plots are provided for VSAT distribution in each beam serviced by the __GW_NAME__ gateway.
+  
+  A month on month summary of new activations, where are these new activations happening and what serice plans are being used, all this information is provided. 
+  
+  Finally, the spectral efficiency of the network is presented so that this data can be combined with volume usage and service plan data.

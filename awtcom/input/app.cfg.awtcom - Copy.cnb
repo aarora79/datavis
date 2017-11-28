@@ -1,0 +1,128 @@
+[general]
+#generic configuration parameter, not specific to the core functionality
+#more like metadata for the code
+
+#CSV file containing VSAT information retrieved from NMS API
+csv_file_name_for_vsat_info_from_nms = vsat_info_from_nms.csv
+
+#CSV file containing VSAT information retrieved from IPGW API
+csv_file_name_for_vsat_info_from_ipgw = vsat_info_from_ipgws.csv
+
+#module name used for tracing
+module_name = "anly.app"
+
+[network]
+#network related configuration. Most of the defaults would 
+#work for most networks, only parameter that has to be mandatorily
+#changed for each network is the API key.
+
+#this is the NMS API token, you would need to create a user
+#on the NMS and get this token
+nms_api_token = c5035804-076b-4075-9f31-59317a2e1dc2
+
+#network name
+nw_name = Awesome Telecom Network, India
+
+#network short name, used for creating folder in which output
+#for this network is kept
+short_name = AWTCOM
+
+#NMS API server or hostname
+nms_api_server_ip_or_hostname = 172.27.5.130
+
+#NMS proxy server for GW device access, change IP address
+#as needed allthough the default settings should work for most
+#networks
+nms_proxy_url = http://172.27.5.130:8081
+
+#domain name suffix for the GW, note that it includes the "." at the start
+gw_domain_name_suffix = .gw.jupiter.veraops.net:8080
+
+
+[gateway]
+#gateway related configuration. A network could consist of multiple Gateways.
+#config params for GW would be prefixed with "gateway1", similarly GW would be 
+#prefixed with "gateway2" and so on and so forth
+
+#Gateway type, one of J1WW, SRS, J2WW
+gw_type = J2WW
+
+#this is the URL for the DGM, change the IP address as needed
+#typically this IP address should works as is
+gateway1.dgm_url = http://172.17.18.68:8080
+
+#name for GW1, this is what would get displayed in the subtitle for all the
+#charts for this GW
+gateway1.nw_name = Awesome Telecom Network, India
+
+#network short name, used for creating folder in which output
+#for this network is kept
+gateway1.short_name = CNB
+
+#convenient text for putting in subtitle of charts which show information
+#for multiple beams together
+beam_centers_location_text = 
+
+#location for map, when this GW's beams are shown on a map this is the location
+#provided to the Google map API. This is not the location of the Gateway as such 
+#although it could be but what this is a location of a place so that all beams 
+#coverage areas can be seen
+gateway1.location_for_map = India
+
+#zoom level for map, larger the number higher the zoom, so 6 usually is a good fit
+#but in case of GWs with more than 2 beams, 3 would work better
+gateway1.zoom_level_for_map = 3
+
+#zoom level for map at a beam level, larger the number higher the zoom, so 6 usually is a good fit
+gateway1.zoom_level_for_map_beam = 4
+
+#zoom level for map showing binned map for terminals see "<name>_terminal_growth_binned.png"
+#sometimes this zoom level works better as beam level zoom+1, for some networks zoom 
+#level same as beam level zoom works better..so adjust accordingly
+gateway1.zoom_level_for_map_beam_terminal_binned = 5
+
+#zoom level for map showing density map for terminals see "<name>_terminal_map_density.png.png"
+#sometimes this zoom level works better as beam level zoom+1, for some networks zoom 
+#level same as beam level zoom works better..so adjust accordingly
+gateway1.zoom_level_for_map_beam_terminal_density = 5
+
+#size of the GW location on the map, GW is general shown as a diamond shaped icon
+#sometimes when the overall map zoom is smaller (viewing from farther) then GW
+#icon size might need to be adjusted
+icon_size=1
+
+#configuration parameters for beam within a gateway. This is for beam1 within gateway1.
+#beam1 is just a logical name, the actual beam id could be (usually would be) different.
+
+#absolute beam id, this is the real beam id used by the satellite, and actually configured on the GW
+#if there are multiple beams use beam1, beam2 and so on, if there is a single beam just specify
+#gateway1.beam1.id
+gateway1.beam1.id = 19
+gateway1.beam2.id = 20
+gateway1.beam3.id = 21
+gateway1.beam4.id = 25
+gateway1.beam5.id = 26
+gateway1.beam6.id = 28
+gateway1.beam7.id = 29
+gateway1.beam8.id = 32
+
+#beam centers, should be "city name, country name" or in general anything that google
+#maps can find. Try out "http://maps.google.com/maps/api/geocode/json?address=Madrid, Spain"
+gateway1.beam1.beam_center = Ludhiana, India
+gateway1.beam2.beam_center = Jaipur, India
+gateway1.beam3.beam_center = Hyderabad, India
+gateway1.beam4.beam_center = Allahabad, India
+gateway1.beam5.beam_center = Kolkata, India	
+gateway1.beam6.beam_center = Kanpur, India
+gateway1.beam7.beam_center = Tezpur, Assam
+gateway1.beam8.beam_center = Bhopal, India
+
+#country for beam centers, this is used to group beams together while plotting
+gateway1.beam1.country = India
+gateway1.beam2.country = India
+gateway1.beam3.country = India
+gateway1.beam4.country = India
+gateway1.beam5.country = India	
+gateway1.beam6.country = India
+gateway1.beam7.country = India
+gateway1.beam8.country = India
